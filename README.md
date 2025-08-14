@@ -30,6 +30,5 @@ It includes separate Admin and User modules, a secure booking process, and speci
 - Database: MySQL
 - Other Tools: Git, GitHub, PDF generation library
 
----
 
 ## 📂 Project Structure
